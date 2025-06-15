@@ -1,0 +1,1 @@
+Dùng QT creator mở file này và chạy chương trình

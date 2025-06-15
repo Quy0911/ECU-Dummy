@@ -1,0 +1,46 @@
+[
+    {
+        "ID": "0x101",
+        "DLC":8,
+        "IDE":"CAN_ID_STD",
+        "RTR":"CAN_RTR_DATA",
+        "TxData10ms": ["0x10", "0x20", "0x30", "0x40", "0x50", "0x60", "0x70", "0x80"],
+        "Cycle":10
+    },
+    
+    {
+        "ID": "0x102",
+        "DLC":8,
+        "IDE":"CAN_ID_STD",
+        "RTR":"CAN_RTR_DATA",
+        "TxData20ms": ["0x11", "0x21", "0x31", "0x41", "0x51", "0x61", "0x71", "0x81"],
+        "Cycle":20
+    },
+    
+    {
+        "ID": "0x103",
+        "DLC":8,
+        "IDE":"CAN_ID_STD",
+        "RTR":"CAN_RTR_DATA",
+        "TxData50ms": ["0x12", "0x22", "0x32", "0x42", "0x52", "0x62", "0x72", "0x82"],
+        "Cycle":50
+    },
+    
+    {
+        "ID": "0x104",
+        "DLC":8,
+        "IDE":"CAN_ID_STD",
+        "RTR":"CAN_RTR_DATA",
+        "TxData100ms": ["0x13", "0x23", "0x33", "0x43", "0x53", "0x63", "0x73", "0x83"],
+        "Cycle":100
+    },
+        
+    {
+        "ID": "0x105",
+        "DLC":8,
+        "IDE":"CAN_ID_STD",
+        "RTR":"CAN_RTR_DATA",
+        "TxData1000ms": ["0x14", "0x24", "0x34", "0x44", "0x54", "0x64", "0x74", "0x84"],
+        "Cycle":1000
+    }
+]
